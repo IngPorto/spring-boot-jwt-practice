@@ -35,7 +35,7 @@ Guía a partir del curso: [Curso de Java Fullstack Completo (springboot, hiberna
 Queries de consulta y borrado por medio de cliente JS.:
 `src/main/resources/static/js/demo/datatables-demo.js`
 
-Librería Front-end del curso: ``
+Librería Front-end del curso: [sb-admin-2](`https://startbootstrap.com/theme/sb-admin-2`)
 
 ---
 ### API SPECIFICATION
